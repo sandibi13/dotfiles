@@ -1,0 +1,28 @@
+{
+  "editor.cursorBlinking": "expand",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true
+  },
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true
+  },
+  "editor.linkedEditing": true,
+  "editor.bracketPairColorization.enabled": true,
+  "extensions.autoUpdate": "onlyEnabledExtensions",
+  "explorer.compactFolders": false,
+  "terminal.integrated.cursorBlinking": true,
+  "window.autoDetectColorScheme": true,
+  "workbench.startupEditor": "none",
+  "workbench.settings.editor": "json",
+  "workbench.iconTheme": "ayu",
+  "workbench.preferredDarkColorTheme": "Ayu Dark Bordered",
+  "workbench.preferredLightColorTheme": "Ayu Light Bordered",
+  "explorer.confirmDelete": false
+}
